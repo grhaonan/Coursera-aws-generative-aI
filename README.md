@@ -1,1 +1,1 @@
-# coursera-aws-generative-ai
+# coursera-aws-generative-ai from deeplearning.ai
